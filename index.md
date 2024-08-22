@@ -171,8 +171,8 @@ Before your training, please visit our Preparing for Instructor Training page fo
   <li>Select a lesson to use for teaching practice sessions and prepare a 3 minute segment, spending no more than 20-30 minutes to prepare.</li>
   <li>Please read the following:</li>
     <ul>
-      <li><a href="https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
-      <li><a href="https://carpentries.org/files/reports/AnnualReport2023.pdf">The Carpentries Annual Report</a></li>
+      <li><a href="{{ site.training_site }}/files/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
+      <li><a href="https://carpentries.org/files/reports/AnnualReport2023.pdf">The Carpentries 2023 Annual Report</a></li>
     </ul>
 </ol>
 
@@ -232,8 +232,8 @@ for more information.
   Please read the following before the training begins:
 </p>
 <ol>
-  <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
-  <li><a href="https://carpentries.org/files/reports/2021%20Carpentries%20Annual%20Report_Final.pdf">The Carpentries 2021 Annual Report</a></li>
+  <li><a href="{{ site.training_site }}/files/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
+  <li><a href="https://carpentries.org/files/reports/AnnualReport2023.pdf">The Carpentries 2023 Annual Report</a></li>
 </ol>
 <p>
   Please also read through <em>one</em> episode of one of The Carpentries lessons below
